@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Role-Python Support - L2-blue?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Role-Python_Developer-blue?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Focus-Backend_Development-yellow?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" />
     <img src="https://komarev.com/ghpvc/?username=AbineshRam&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
